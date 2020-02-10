@@ -118,12 +118,10 @@ In programming languages, numbers and words are different datatypes. The number 
   - mah
   - ma
   - aha
-
-1. What is the output of the following statement?  
+2. What is the output of the following statement?  
   sentence = "Hello world"
   print(len(sentence))
-
-1. What is the value of str after the following statements?
+3. What is the value of str after the following statements?
   str = "hello"
   str = str.capitalize()
   str.upper()
@@ -131,14 +129,12 @@ In programming languages, numbers and words are different datatypes. The number 
   - Hello
   - hello
   - HELLO
-
-1. Which of the following will print a number with 3 decimal point precision?
+4. Which of the following will print a number with 3 decimal point precision?
   - print("%3.2f" %(num))
   - print("%2.2d" %(num))
   - print("%3.5s" %(num))
   - print("%2.3f" %(num))
-
-1. UNO IDs are determined by a first initial, middle initial, and last name. Given the following, how would you create a username?   
+5. UNO IDs are determined by a first initial, middle initial, and last name. Given the following, how would you create a username?   
 first = input("Enter first name: ")  
 middle = input("Enter middle name: ")  
 last = input("Enter last name: ")  
