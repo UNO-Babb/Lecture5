@@ -138,3 +138,7 @@ In programming languages, numbers and words are different datatypes. The number 
 first = input("Enter first name: ")  
 middle = input("Enter middle name: ")  
 last = input("Enter last name: ")  
+
+### Additional Resources:
+- https://www.geeksforgeeks.org/python-strings/
+- https://codingbat.com/python/String-1
