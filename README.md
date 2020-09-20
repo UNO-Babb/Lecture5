@@ -43,7 +43,7 @@ In python, the for-loop iterates across a list, we can use the string as a list.
 ```
 We can use the index position to test elements of the word... in this case we are trying to determine if a word is a palindrome. A palindrome is a word (or phrase) that is the same forward and backward.
 ```
-def isPalindrome(word):
+def isPalendrome(word):
   # check that the first letter is the same as the last
   # continue checking 2nd letter to 2nd from end, etc.
 
