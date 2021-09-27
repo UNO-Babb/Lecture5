@@ -1,4 +1,4 @@
-# Lecture 5 - CYBR 2980
+# Lecture 5 - CIST 1600
 ## Objectives
 - Discuss & demonstrate string manipulations:
   - subscript operator
