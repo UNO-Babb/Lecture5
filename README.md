@@ -70,7 +70,7 @@ def main():
 | str.**ljust(width)** |Like center, but str is left-justified |
 | str.**lower()** | Copy of str in all lowercase characters |
 | str.**lstrip()** | Copy of str with leading whitespace removed |
-| str.**repalce(oldsub, newsub)** | Replace occurrences of oldsub in str with newsub |
+| str.**replace(oldsub, newsub)** | Replace occurrences of oldsub in str with newsub |
 | str.**rfind(sub)** | Like find, but returns the rightmost position |
 | str.**rjust(width)** | Like center, but str is right-justified |
 | str.**rstrip()** | Copy of str with trailing whitespace removed |
